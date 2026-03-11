@@ -1,0 +1,91 @@
+# ============================================================
+# .gitignore para proyectos C++
+# Ignora archivos compilados y archivos de IDEs
+# ============================================================
+
+# ---------------------------
+# Binarios compilados
+# ---------------------------
+
+# Ejecutables de Windows
+*.exe
+
+# Ejecutables de Linux / Mac
+*.out
+a.out
+
+# Archivos objeto intermedios
+*.o
+*.obj
+
+# Archivos de biblioteca
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# ---------------------------
+# Archivos de IDEs y editores
+# ---------------------------
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.ncb
+*.pdb
+*.idb
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# VS Code
+.vscode/
+
+# Eclipse CDT
+.cproject
+.project
+.settings/
+
+# ---------------------------
+# Sistema operativo
+# ---------------------------
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory

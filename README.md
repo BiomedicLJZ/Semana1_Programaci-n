@@ -77,6 +77,8 @@ Necesitas un compilador de C++ instalado. Las opciones mas comunes son:
 # Compilar un ejercicio
 g++ ejercicio1.cpp -o ejercicio1
 
+```
+
 # Ejecutar el programa compilado
 ./ejercicio1        # Linux / Mac
 ejercicio1.exe      # Windows
@@ -90,7 +92,7 @@ ejercicio1.exe      # Windows
 |--------------|----------------------|
 | Materia      | Programacion 1       |
 | Institucion  | UNIAT                |
-| Semestre     | Primero              |
+| Semestre     | Segundo              |
 | Lenguaje     | C++                  |
 
 ---

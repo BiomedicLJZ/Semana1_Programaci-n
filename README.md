@@ -2,9 +2,9 @@
 
 ## Descripcion
 
-Este repositorio contiene la tarea sobre **tipos de datos primitivos** y **entrada/salida basica** en C++ para el curso de Programacion 1 de la Universidad UNIAT.
+Este repositorio contiene la tarea sobre **tipos de datos primitivos** y **entrada/salida basica** en C++ para el curso de Programacion 1 de la UNIAT.
 
-Los ejercicios estan disenados para estudiantes de primer semestre que estan aprendiendo los fundamentos del lenguaje C++.
+Los ejercicios estan disenados para estudiantes de segundo semestre que estan aprendiendo los fundamentos del lenguaje C++.
 
 ---
 
